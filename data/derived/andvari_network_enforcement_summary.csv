@@ -1,0 +1,241 @@
+run_id,repo_slug,agent,variant,variant_label,step,status,reason,proxy_access_line_count,proxy_denied_count,blocked_egress_line_count,denied_or_blocked,main_event_type
+20260505T122153Z__ulisesbocchio_jasypt-spring-boot__2243cb80,ulisesbocchio_jasypt-spring-boot,codex,generated,Best-effort,andvari,passed,,216,0,0,False,none
+20260505T122153Z__ulisesbocchio_jasypt-spring-boot__2243cb80,ulisesbocchio_jasypt-spring-boot,codex,v2,Slightly degraded,andvari-v2,passed,,222,0,0,False,none
+20260505T122153Z__ulisesbocchio_jasypt-spring-boot__2243cb80,ulisesbocchio_jasypt-spring-boot,codex,v3,Moderately degraded,andvari-v3,passed,,210,0,0,False,none
+20260505T150455Z__mbechler_marshalsec__243c5aa8,mbechler_marshalsec,codex,generated,Best-effort,andvari,passed,,156,0,0,False,none
+20260505T150455Z__mbechler_marshalsec__243c5aa8,mbechler_marshalsec,codex,v2,Slightly degraded,andvari-v2,passed,,156,0,0,False,none
+20260505T150455Z__mbechler_marshalsec__243c5aa8,mbechler_marshalsec,codex,v3,Moderately degraded,andvari-v3,passed,,160,0,0,False,none
+20260505T150537Z__frohoff_ysoserial__218bcffc,frohoff_ysoserial,codex,generated,Best-effort,andvari,passed,,174,0,0,False,none
+20260505T150537Z__frohoff_ysoserial__218bcffc,frohoff_ysoserial,codex,v2,Slightly degraded,andvari-v2,passed,,134,0,0,False,none
+20260505T150537Z__frohoff_ysoserial__218bcffc,frohoff_ysoserial,codex,v3,Moderately degraded,andvari-v3,passed,,150,0,0,False,none
+20260505T150549Z__xtuhcy_gecco__e1f32e1c,xtuhcy_gecco,codex,generated,Best-effort,andvari,passed,,264,0,0,False,none
+20260505T150549Z__xtuhcy_gecco__e1f32e1c,xtuhcy_gecco,codex,v2,Slightly degraded,andvari-v2,passed,,264,0,0,False,none
+20260505T150549Z__xtuhcy_gecco__e1f32e1c,xtuhcy_gecco,codex,v3,Moderately degraded,andvari-v3,passed,,234,0,0,False,none
+20260506T082045Z__happyfish100_fastdfs-client-java__4e7b6b34,happyfish100_fastdfs-client-java,codex,generated,Best-effort,andvari,passed,,188,0,0,False,none
+20260506T082045Z__happyfish100_fastdfs-client-java__4e7b6b34,happyfish100_fastdfs-client-java,codex,v2,Slightly degraded,andvari-v2,passed,,214,0,0,False,none
+20260506T082045Z__happyfish100_fastdfs-client-java__4e7b6b34,happyfish100_fastdfs-client-java,codex,v3,Moderately degraded,andvari-v3,passed,,160,0,0,False,none
+20260506T082105Z__JakeWharton_RxRelay__9540ecc7,JakeWharton_RxRelay,codex,generated,Best-effort,andvari,passed,,132,0,0,False,none
+20260506T082105Z__JakeWharton_RxRelay__9540ecc7,JakeWharton_RxRelay,codex,v2,Slightly degraded,andvari-v2,passed,,142,0,0,False,none
+20260506T082105Z__JakeWharton_RxRelay__9540ecc7,JakeWharton_RxRelay,codex,v3,Moderately degraded,andvari-v3,passed,,78,0,0,False,none
+20260506T082129Z__amitshekhariitbhu_Android-Debug-Database__bf149df6,amitshekhariitbhu_Android-Debug-Database,codex,generated,Best-effort,andvari,passed,,134,0,0,False,none
+20260506T082129Z__amitshekhariitbhu_Android-Debug-Database__bf149df6,amitshekhariitbhu_Android-Debug-Database,codex,v2,Slightly degraded,andvari-v2,passed,,172,0,0,False,none
+20260506T082129Z__amitshekhariitbhu_Android-Debug-Database__bf149df6,amitshekhariitbhu_Android-Debug-Database,codex,v3,Moderately degraded,andvari-v3,passed,,136,0,0,False,none
+20260506T082136Z__amitshekhariitbhu_PRDownloader__611b12c8,amitshekhariitbhu_PRDownloader,codex,generated,Best-effort,andvari,passed,,144,0,0,False,none
+20260506T082136Z__amitshekhariitbhu_PRDownloader__611b12c8,amitshekhariitbhu_PRDownloader,codex,v2,Slightly degraded,andvari-v2,passed,,154,0,0,False,none
+20260506T082136Z__amitshekhariitbhu_PRDownloader__611b12c8,amitshekhariitbhu_PRDownloader,codex,v3,Moderately degraded,andvari-v3,passed,,126,0,0,False,none
+20260506T083333Z__esoxjem_MovieGuide__dc1f20fb,esoxjem_MovieGuide,codex,generated,Best-effort,andvari,passed,,162,0,0,False,none
+20260506T083333Z__esoxjem_MovieGuide__dc1f20fb,esoxjem_MovieGuide,codex,v2,Slightly degraded,andvari-v2,passed,,126,0,0,False,none
+20260506T083333Z__esoxjem_MovieGuide__dc1f20fb,esoxjem_MovieGuide,codex,v3,Moderately degraded,andvari-v3,passed,,142,0,0,False,none
+20260507T093402Z__19MisterX98_SeedcrackerX__8e18d20d,19MisterX98_SeedcrackerX,codex,generated,Best-effort,andvari,passed,,172,0,0,False,none
+20260507T093402Z__19MisterX98_SeedcrackerX__8e18d20d,19MisterX98_SeedcrackerX,codex,v2,Slightly degraded,andvari-v2,passed,,134,0,0,False,none
+20260507T093402Z__19MisterX98_SeedcrackerX__8e18d20d,19MisterX98_SeedcrackerX,codex,v3,Moderately degraded,andvari-v3,passed,,134,0,0,False,none
+20260507T093422Z__airbnb_native-navigation__9cf50bf9,airbnb_native-navigation,codex,generated,Best-effort,andvari,passed,,186,0,0,False,none
+20260507T093422Z__airbnb_native-navigation__9cf50bf9,airbnb_native-navigation,codex,v2,Slightly degraded,andvari-v2,passed,,180,1,0,True,proxy_denial
+20260507T093422Z__airbnb_native-navigation__9cf50bf9,airbnb_native-navigation,codex,v3,Moderately degraded,andvari-v3,passed,,132,0,0,False,none
+20260507T093651Z__awaitility_awaitility__4fc23ccb,awaitility_awaitility,codex,generated,Best-effort,andvari,passed,,194,0,0,False,none
+20260507T093651Z__awaitility_awaitility__4fc23ccb,awaitility_awaitility,codex,v2,Slightly degraded,andvari-v2,passed,,186,0,0,False,none
+20260507T093651Z__awaitility_awaitility__4fc23ccb,awaitility_awaitility,codex,v3,Moderately degraded,andvari-v3,passed,,204,0,0,False,none
+20260507T093656Z__DantSu_ESCPOS-ThermalPrinter-Android__f61030e4,DantSu_ESCPOS-ThermalPrinter-Android,codex,generated,Best-effort,andvari,passed,,162,0,0,False,none
+20260507T093656Z__DantSu_ESCPOS-ThermalPrinter-Android__f61030e4,DantSu_ESCPOS-ThermalPrinter-Android,codex,v2,Slightly degraded,andvari-v2,passed,,126,0,0,False,none
+20260507T093656Z__DantSu_ESCPOS-ThermalPrinter-Android__f61030e4,DantSu_ESCPOS-ThermalPrinter-Android,codex,v3,Moderately degraded,andvari-v3,passed,,134,0,0,False,none
+20260507T093701Z__elvishew_xLog__3faa6b27,elvishew_xLog,codex,generated,Best-effort,andvari,passed,,174,0,0,False,none
+20260507T093701Z__elvishew_xLog__3faa6b27,elvishew_xLog,codex,v2,Slightly degraded,andvari-v2,passed,,132,0,0,False,none
+20260507T093701Z__elvishew_xLog__3faa6b27,elvishew_xLog,codex,v3,Moderately degraded,andvari-v3,passed,,174,0,0,False,none
+20260507T093708Z__EsotericSoftware_reflectasm__e34c5e8b,EsotericSoftware_reflectasm,codex,generated,Best-effort,andvari,passed,,122,0,0,False,none
+20260507T093708Z__EsotericSoftware_reflectasm__e34c5e8b,EsotericSoftware_reflectasm,codex,v2,Slightly degraded,andvari-v2,passed,,136,0,0,False,none
+20260507T093708Z__EsotericSoftware_reflectasm__e34c5e8b,EsotericSoftware_reflectasm,codex,v3,Moderately degraded,andvari-v3,passed,,114,0,0,False,none
+20260507T093714Z__evant_binding-collection-adapter__ac7972e1,evant_binding-collection-adapter,codex,generated,Best-effort,andvari,passed,,136,0,0,False,none
+20260507T093714Z__evant_binding-collection-adapter__ac7972e1,evant_binding-collection-adapter,codex,v2,Slightly degraded,andvari-v2,passed,,108,0,0,False,none
+20260507T093714Z__evant_binding-collection-adapter__ac7972e1,evant_binding-collection-adapter,codex,v3,Moderately degraded,andvari-v3,passed,,150,0,0,False,none
+20260507T093719Z__gothinkster_spring-boot-realworld-example-app__ee17e31a,gothinkster_spring-boot-realworld-example-app,codex,generated,Best-effort,andvari,passed,,272,0,0,False,none
+20260507T093719Z__gothinkster_spring-boot-realworld-example-app__ee17e31a,gothinkster_spring-boot-realworld-example-app,codex,v2,Slightly degraded,andvari-v2,passed,,238,0,0,False,none
+20260507T093719Z__gothinkster_spring-boot-realworld-example-app__ee17e31a,gothinkster_spring-boot-realworld-example-app,codex,v3,Moderately degraded,andvari-v3,passed,,172,0,0,False,none
+20260507T093724Z__Grt1228_chatgpt-java__ae761b89,Grt1228_chatgpt-java,codex,generated,Best-effort,andvari,passed,,210,0,0,False,none
+20260507T093724Z__Grt1228_chatgpt-java__ae761b89,Grt1228_chatgpt-java,codex,v2,Slightly degraded,andvari-v2,passed,,166,0,0,False,none
+20260507T093724Z__Grt1228_chatgpt-java__ae761b89,Grt1228_chatgpt-java,codex,v3,Moderately degraded,andvari-v3,passed,,172,0,0,False,none
+20260507T093731Z__j-easy_easy-rules__d4450831,j-easy_easy-rules,codex,generated,Best-effort,andvari,passed,,166,0,0,False,none
+20260507T093731Z__j-easy_easy-rules__d4450831,j-easy_easy-rules,codex,v2,Slightly degraded,andvari-v2,passed,,160,0,0,False,none
+20260507T093731Z__j-easy_easy-rules__d4450831,j-easy_easy-rules,codex,v3,Moderately degraded,andvari-v3,passed,,164,0,0,False,none
+20260508T095107Z__jOOQ_jOOR__23e17cf3,jOOQ_jOOR,codex,generated,Best-effort,andvari,passed,,122,0,0,False,none
+20260508T095107Z__jOOQ_jOOR__23e17cf3,jOOQ_jOOR,codex,v2,Slightly degraded,andvari-v2,passed,,200,0,0,False,none
+20260508T095107Z__jOOQ_jOOR__23e17cf3,jOOQ_jOOR,codex,v3,Moderately degraded,andvari-v3,passed,,116,0,0,False,none
+20260508T095113Z__LianjiaTech_retrofit-spring-boot-starter__24cb9eda,LianjiaTech_retrofit-spring-boot-starter,codex,generated,Best-effort,andvari,passed,,236,0,0,False,none
+20260508T095113Z__LianjiaTech_retrofit-spring-boot-starter__24cb9eda,LianjiaTech_retrofit-spring-boot-starter,codex,v2,Slightly degraded,andvari-v2,passed,,200,0,0,False,none
+20260508T095113Z__LianjiaTech_retrofit-spring-boot-starter__24cb9eda,LianjiaTech_retrofit-spring-boot-starter,codex,v3,Moderately degraded,andvari-v3,passed,,286,0,0,False,none
+20260508T095119Z__linkedin_kafka-monitor__043db641,linkedin_kafka-monitor,codex,generated,Best-effort,andvari,passed,,248,0,0,False,none
+20260508T095119Z__linkedin_kafka-monitor__043db641,linkedin_kafka-monitor,codex,v2,Slightly degraded,andvari-v2,passed,,182,0,0,False,none
+20260508T095119Z__linkedin_kafka-monitor__043db641,linkedin_kafka-monitor,codex,v3,Moderately degraded,andvari-v3,passed,,140,0,0,False,none
+20260508T095125Z__macrozheng_mall-tiny__a81ec474,macrozheng_mall-tiny,codex,generated,Best-effort,andvari,passed,,208,0,0,False,none
+20260508T095125Z__macrozheng_mall-tiny__a81ec474,macrozheng_mall-tiny,codex,v2,Slightly degraded,andvari-v2,passed,,258,0,0,False,none
+20260508T095125Z__macrozheng_mall-tiny__a81ec474,macrozheng_mall-tiny,codex,v3,Moderately degraded,andvari-v3,passed,,276,0,0,False,none
+20260508T095131Z__Meituan-Dianping_walle__f78edcf1,Meituan-Dianping_walle,codex,generated,Best-effort,andvari,passed,,166,0,0,False,none
+20260508T095131Z__Meituan-Dianping_walle__f78edcf1,Meituan-Dianping_walle,codex,v2,Slightly degraded,andvari-v2,passed,,120,0,0,False,none
+20260508T095131Z__Meituan-Dianping_walle__f78edcf1,Meituan-Dianping_walle,codex,v3,Moderately degraded,andvari-v3,passed,,150,0,0,False,none
+20260508T095136Z__Mojang_brigadier__b5419b18,Mojang_brigadier,codex,generated,Best-effort,andvari,passed,,172,0,0,False,none
+20260508T095136Z__Mojang_brigadier__b5419b18,Mojang_brigadier,codex,v2,Slightly degraded,andvari-v2,passed,,160,0,0,False,none
+20260508T095136Z__Mojang_brigadier__b5419b18,Mojang_brigadier,codex,v3,Moderately degraded,andvari-v3,passed,,202,0,0,False,none
+20260508T095142Z__monkeyWie_proxyee__c2c5bb4c,monkeyWie_proxyee,codex,generated,Best-effort,andvari,passed,,210,0,0,False,none
+20260508T095142Z__monkeyWie_proxyee__c2c5bb4c,monkeyWie_proxyee,codex,v2,Slightly degraded,andvari-v2,passed,,184,0,0,False,none
+20260508T095142Z__monkeyWie_proxyee__c2c5bb4c,monkeyWie_proxyee,codex,v3,Moderately degraded,andvari-v3,passed,,158,0,0,False,none
+20260508T095147Z__mouzt_mzt-biz-log__8d3a0271,mouzt_mzt-biz-log,codex,generated,Best-effort,andvari,passed,,194,0,0,False,none
+20260508T095147Z__mouzt_mzt-biz-log__8d3a0271,mouzt_mzt-biz-log,codex,v2,Slightly degraded,andvari-v2,passed,,202,0,0,False,none
+20260508T095147Z__mouzt_mzt-biz-log__8d3a0271,mouzt_mzt-biz-log,codex,v3,Moderately degraded,andvari-v3,passed,,202,0,0,False,none
+20260508T095153Z__Netflix_concurrency-limits__e8df64d8,Netflix_concurrency-limits,codex,generated,Best-effort,andvari,passed,,202,0,0,False,none
+20260508T095153Z__Netflix_concurrency-limits__e8df64d8,Netflix_concurrency-limits,codex,v2,Slightly degraded,andvari-v2,passed,,146,0,0,False,none
+20260508T095153Z__Netflix_concurrency-limits__e8df64d8,Netflix_concurrency-limits,codex,v3,Moderately degraded,andvari-v3,passed,,188,0,0,False,none
+20260508T095158Z__pwittchen_ReactiveNetwork__ddfde340,pwittchen_ReactiveNetwork,codex,generated,Best-effort,andvari,passed,,126,0,0,False,none
+20260508T095158Z__pwittchen_ReactiveNetwork__ddfde340,pwittchen_ReactiveNetwork,codex,v2,Slightly degraded,andvari-v2,passed,,167,0,0,False,none
+20260508T095158Z__pwittchen_ReactiveNetwork__ddfde340,pwittchen_ReactiveNetwork,codex,v3,Moderately degraded,andvari-v3,passed,,154,0,0,False,none
+20260508T095204Z__RikkaApps_Shizuku-API__a27f6e41,RikkaApps_Shizuku-API,codex,generated,Best-effort,andvari,passed,,202,0,0,False,none
+20260508T095204Z__RikkaApps_Shizuku-API__a27f6e41,RikkaApps_Shizuku-API,codex,v2,Slightly degraded,andvari-v2,passed,,186,0,0,False,none
+20260508T095204Z__RikkaApps_Shizuku-API__a27f6e41,RikkaApps_Shizuku-API,codex,v3,Moderately degraded,andvari-v3,passed,,190,0,0,False,none
+20260508T095210Z__TheoKanning_openai-java__26909660,TheoKanning_openai-java,codex,generated,Best-effort,andvari,passed,,140,0,0,False,none
+20260508T095210Z__TheoKanning_openai-java__26909660,TheoKanning_openai-java,codex,v2,Slightly degraded,andvari-v2,passed,,210,0,0,False,none
+20260508T095210Z__TheoKanning_openai-java__26909660,TheoKanning_openai-java,codex,v3,Moderately degraded,andvari-v3,passed,,234,0,0,False,none
+20260508T095214Z__whwlsfb_JDumpSpider__24fe3186,whwlsfb_JDumpSpider,codex,generated,Best-effort,andvari,passed,,164,0,0,False,none
+20260508T095214Z__whwlsfb_JDumpSpider__24fe3186,whwlsfb_JDumpSpider,codex,v2,Slightly degraded,andvari-v2,passed,,158,0,0,False,none
+20260508T095214Z__whwlsfb_JDumpSpider__24fe3186,whwlsfb_JDumpSpider,codex,v3,Moderately degraded,andvari-v3,passed,,160,0,0,False,none
+20260508T095219Z__YeautyYE_netty-websocket-spring-boot-starter__eb4d0a6b,YeautyYE_netty-websocket-spring-boot-starter,codex,generated,Best-effort,andvari,passed,,270,0,0,False,none
+20260508T095219Z__YeautyYE_netty-websocket-spring-boot-starter__eb4d0a6b,YeautyYE_netty-websocket-spring-boot-starter,codex,v2,Slightly degraded,andvari-v2,passed,,156,0,0,False,none
+20260508T095219Z__YeautyYE_netty-websocket-spring-boot-starter__eb4d0a6b,YeautyYE_netty-websocket-spring-boot-starter,codex,v3,Moderately degraded,andvari-v3,passed,,222,0,0,False,none
+20260508T095225Z__JMCuixy_swagger2word__0da57120,JMCuixy_swagger2word,codex,generated,Best-effort,andvari,passed,,204,0,0,False,none
+20260508T095225Z__JMCuixy_swagger2word__0da57120,JMCuixy_swagger2word,codex,v2,Slightly degraded,andvari-v2,passed,,168,0,0,False,none
+20260508T095225Z__JMCuixy_swagger2word__0da57120,JMCuixy_swagger2word,codex,v3,Moderately degraded,andvari-v3,passed,,180,0,0,False,none
+20260508T095230Z__eugene-khyst_postgresql-event-sourcing__90faafbb,eugene-khyst_postgresql-event-sourcing,codex,generated,Best-effort,andvari,passed,,336,0,0,False,none
+20260508T095230Z__eugene-khyst_postgresql-event-sourcing__90faafbb,eugene-khyst_postgresql-event-sourcing,codex,v2,Slightly degraded,andvari-v2,passed,,308,0,0,False,none
+20260508T095230Z__eugene-khyst_postgresql-event-sourcing__90faafbb,eugene-khyst_postgresql-event-sourcing,codex,v3,Moderately degraded,andvari-v3,passed,,238,0,0,False,none
+20260508T095237Z__facebook_SoLoader__d3d721fb,facebook_SoLoader,codex,generated,Best-effort,andvari,passed,,154,0,0,False,none
+20260508T095237Z__facebook_SoLoader__d3d721fb,facebook_SoLoader,codex,v2,Slightly degraded,andvari-v2,passed,,232,0,0,False,none
+20260508T095237Z__facebook_SoLoader__d3d721fb,facebook_SoLoader,codex,v3,Moderately degraded,andvari-v3,passed,,158,0,0,False,none
+20260508T095244Z__feiniaojin_graceful-response__cf1cd118,feiniaojin_graceful-response,codex,generated,Best-effort,andvari,passed,,300,0,0,False,none
+20260508T095244Z__feiniaojin_graceful-response__cf1cd118,feiniaojin_graceful-response,codex,v2,Slightly degraded,andvari-v2,passed,,206,0,0,False,none
+20260508T095244Z__feiniaojin_graceful-response__cf1cd118,feiniaojin_graceful-response,codex,v3,Moderately degraded,andvari-v3,passed,,254,0,0,False,none
+20260508T095249Z__jenkinsci_jenkinsfile-runner__9be9c0fb,jenkinsci_jenkinsfile-runner,codex,generated,Best-effort,andvari,passed,,154,0,0,False,none
+20260508T095249Z__jenkinsci_jenkinsfile-runner__9be9c0fb,jenkinsci_jenkinsfile-runner,codex,v2,Slightly degraded,andvari-v2,passed,,174,0,0,False,none
+20260508T095249Z__jenkinsci_jenkinsfile-runner__9be9c0fb,jenkinsci_jenkinsfile-runner,codex,v3,Moderately degraded,andvari-v3,passed,,150,0,0,False,none
+20260508T095255Z__mitre_HTTP-Proxy-Servlet__c799c5e1,mitre_HTTP-Proxy-Servlet,codex,generated,Best-effort,andvari,passed,,174,0,0,False,none
+20260508T095255Z__mitre_HTTP-Proxy-Servlet__c799c5e1,mitre_HTTP-Proxy-Servlet,codex,v2,Slightly degraded,andvari-v2,passed,,196,0,0,False,none
+20260508T095255Z__mitre_HTTP-Proxy-Servlet__c799c5e1,mitre_HTTP-Proxy-Servlet,codex,v3,Moderately degraded,andvari-v3,passed,,110,0,0,False,none
+20260508T095300Z__stealthcopter_AndroidNetworkTools__a82af8a5,stealthcopter_AndroidNetworkTools,codex,generated,Best-effort,andvari,passed,,92,0,0,False,none
+20260508T095300Z__stealthcopter_AndroidNetworkTools__a82af8a5,stealthcopter_AndroidNetworkTools,codex,v2,Slightly degraded,andvari-v2,passed,,156,1,0,True,proxy_denial
+20260508T095300Z__stealthcopter_AndroidNetworkTools__a82af8a5,stealthcopter_AndroidNetworkTools,codex,v3,Moderately degraded,andvari-v3,passed,,134,0,7,True,firewall_block
+20260510T103653Z__19MisterX98_SeedcrackerX__8e18d20d,19MisterX98_SeedcrackerX,claude,generated,Best-effort,andvari,passed,,68,0,0,False,none
+20260510T103653Z__19MisterX98_SeedcrackerX__8e18d20d,19MisterX98_SeedcrackerX,claude,v2,Slightly degraded,andvari-v2,passed,,70,0,0,False,none
+20260510T103653Z__19MisterX98_SeedcrackerX__8e18d20d,19MisterX98_SeedcrackerX,claude,v3,Moderately degraded,andvari-v3,passed,,76,0,0,False,none
+20260510T154735Z__airbnb_native-navigation__9cf50bf9,airbnb_native-navigation,claude,generated,Best-effort,andvari,passed,,44,0,0,False,none
+20260510T154735Z__airbnb_native-navigation__9cf50bf9,airbnb_native-navigation,claude,v2,Slightly degraded,andvari-v2,passed,,54,0,0,False,none
+20260510T154735Z__airbnb_native-navigation__9cf50bf9,airbnb_native-navigation,claude,v3,Moderately degraded,andvari-v3,passed,,60,0,0,False,none
+20260510T154742Z__amitshekhariitbhu_Android-Debug-Database__bf149df6,amitshekhariitbhu_Android-Debug-Database,claude,generated,Best-effort,andvari,passed,,48,0,0,False,none
+20260510T154742Z__amitshekhariitbhu_Android-Debug-Database__bf149df6,amitshekhariitbhu_Android-Debug-Database,claude,v2,Slightly degraded,andvari-v2,passed,,48,0,0,False,none
+20260510T154742Z__amitshekhariitbhu_Android-Debug-Database__bf149df6,amitshekhariitbhu_Android-Debug-Database,claude,v3,Moderately degraded,andvari-v3,passed,,46,0,0,False,none
+20260510T154753Z__amitshekhariitbhu_PRDownloader__611b12c8,amitshekhariitbhu_PRDownloader,claude,generated,Best-effort,andvari,passed,,62,0,0,False,none
+20260510T154753Z__amitshekhariitbhu_PRDownloader__611b12c8,amitshekhariitbhu_PRDownloader,claude,v2,Slightly degraded,andvari-v2,passed,,70,0,0,False,none
+20260510T154753Z__amitshekhariitbhu_PRDownloader__611b12c8,amitshekhariitbhu_PRDownloader,claude,v3,Moderately degraded,andvari-v3,passed,,50,0,0,False,none
+20260510T154759Z__awaitility_awaitility__4fc23ccb,awaitility_awaitility,claude,generated,Best-effort,andvari,passed,,68,0,0,False,none
+20260510T154759Z__awaitility_awaitility__4fc23ccb,awaitility_awaitility,claude,v2,Slightly degraded,andvari-v2,passed,,64,0,0,False,none
+20260510T154759Z__awaitility_awaitility__4fc23ccb,awaitility_awaitility,claude,v3,Moderately degraded,andvari-v3,passed,,62,0,0,False,none
+20260510T154807Z__DantSu_ESCPOS-ThermalPrinter-Android__f61030e4,DantSu_ESCPOS-ThermalPrinter-Android,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260510T154807Z__DantSu_ESCPOS-ThermalPrinter-Android__f61030e4,DantSu_ESCPOS-ThermalPrinter-Android,claude,v2,Slightly degraded,andvari-v2,passed,,58,0,0,False,none
+20260510T154807Z__DantSu_ESCPOS-ThermalPrinter-Android__f61030e4,DantSu_ESCPOS-ThermalPrinter-Android,claude,v3,Moderately degraded,andvari-v3,passed,,36,1,0,True,proxy_denial
+20260510T154813Z__elvishew_xLog__3faa6b27,elvishew_xLog,claude,generated,Best-effort,andvari,passed,,64,0,0,False,none
+20260510T154813Z__elvishew_xLog__3faa6b27,elvishew_xLog,claude,v2,Slightly degraded,andvari-v2,passed,,48,0,0,False,none
+20260510T154813Z__elvishew_xLog__3faa6b27,elvishew_xLog,claude,v3,Moderately degraded,andvari-v3,passed,,58,0,0,False,none
+20260510T154820Z__EsotericSoftware_reflectasm__e34c5e8b,EsotericSoftware_reflectasm,claude,generated,Best-effort,andvari,passed,,60,0,0,False,none
+20260510T154820Z__EsotericSoftware_reflectasm__e34c5e8b,EsotericSoftware_reflectasm,claude,v2,Slightly degraded,andvari-v2,passed,,48,0,0,False,none
+20260510T154820Z__EsotericSoftware_reflectasm__e34c5e8b,EsotericSoftware_reflectasm,claude,v3,Moderately degraded,andvari-v3,passed,,60,0,0,False,none
+20260510T154826Z__esoxjem_MovieGuide__dc1f20fb,esoxjem_MovieGuide,claude,generated,Best-effort,andvari,passed,,42,0,0,False,none
+20260510T154826Z__esoxjem_MovieGuide__dc1f20fb,esoxjem_MovieGuide,claude,v2,Slightly degraded,andvari-v2,passed,,66,1,0,True,proxy_denial
+20260510T154826Z__esoxjem_MovieGuide__dc1f20fb,esoxjem_MovieGuide,claude,v3,Moderately degraded,andvari-v3,passed,,42,0,0,False,none
+20260510T154832Z__evant_binding-collection-adapter__ac7972e1,evant_binding-collection-adapter,claude,generated,Best-effort,andvari,passed,,28,1,0,True,proxy_denial
+20260510T154832Z__evant_binding-collection-adapter__ac7972e1,evant_binding-collection-adapter,claude,v2,Slightly degraded,andvari-v2,passed,,46,0,0,False,none
+20260510T154832Z__evant_binding-collection-adapter__ac7972e1,evant_binding-collection-adapter,claude,v3,Moderately degraded,andvari-v3,passed,,26,0,0,False,none
+20260510T154845Z__frohoff_ysoserial__218bcffc,frohoff_ysoserial,claude,generated,Best-effort,andvari,passed,,68,0,0,False,none
+20260510T154845Z__frohoff_ysoserial__218bcffc,frohoff_ysoserial,claude,v2,Slightly degraded,andvari-v2,passed,,56,0,0,False,none
+20260510T154845Z__frohoff_ysoserial__218bcffc,frohoff_ysoserial,claude,v3,Moderately degraded,andvari-v3,error,runner-timeout,106,0,4,True,firewall_block
+20260511T105128Z__gothinkster_spring-boot-realworld-example-app__ee17e31a,gothinkster_spring-boot-realworld-example-app,claude,generated,Best-effort,andvari,passed,,86,0,0,False,none
+20260511T105128Z__gothinkster_spring-boot-realworld-example-app__ee17e31a,gothinkster_spring-boot-realworld-example-app,claude,v2,Slightly degraded,andvari-v2,passed,,72,0,0,False,none
+20260511T105128Z__gothinkster_spring-boot-realworld-example-app__ee17e31a,gothinkster_spring-boot-realworld-example-app,claude,v3,Moderately degraded,andvari-v3,passed,,62,0,0,False,none
+20260511T105134Z__Grt1228_chatgpt-java__ae761b89,Grt1228_chatgpt-java,claude,generated,Best-effort,andvari,passed,,56,0,0,False,none
+20260511T105134Z__Grt1228_chatgpt-java__ae761b89,Grt1228_chatgpt-java,claude,v2,Slightly degraded,andvari-v2,passed,,58,0,0,False,none
+20260511T105134Z__Grt1228_chatgpt-java__ae761b89,Grt1228_chatgpt-java,claude,v3,Moderately degraded,andvari-v3,passed,,56,0,0,False,none
+20260511T105140Z__happyfish100_fastdfs-client-java__4e7b6b34,happyfish100_fastdfs-client-java,claude,generated,Best-effort,andvari,passed,,52,0,0,False,none
+20260511T105140Z__happyfish100_fastdfs-client-java__4e7b6b34,happyfish100_fastdfs-client-java,claude,v2,Slightly degraded,andvari-v2,passed,,54,0,0,False,none
+20260511T105140Z__happyfish100_fastdfs-client-java__4e7b6b34,happyfish100_fastdfs-client-java,claude,v3,Moderately degraded,andvari-v3,passed,,48,0,0,False,none
+20260511T105145Z__j-easy_easy-rules__d4450831,j-easy_easy-rules,claude,generated,Best-effort,andvari,passed,,66,0,0,False,none
+20260511T105145Z__j-easy_easy-rules__d4450831,j-easy_easy-rules,claude,v2,Slightly degraded,andvari-v2,passed,,64,0,0,False,none
+20260511T105145Z__j-easy_easy-rules__d4450831,j-easy_easy-rules,claude,v3,Moderately degraded,andvari-v3,passed,,62,0,0,False,none
+20260511T105150Z__JakeWharton_RxRelay__9540ecc7,JakeWharton_RxRelay,claude,generated,Best-effort,andvari,passed,,44,4,0,True,proxy_denial
+20260511T105150Z__JakeWharton_RxRelay__9540ecc7,JakeWharton_RxRelay,claude,v2,Slightly degraded,andvari-v2,passed,,30,0,0,False,none
+20260511T105150Z__JakeWharton_RxRelay__9540ecc7,JakeWharton_RxRelay,claude,v3,Moderately degraded,andvari-v3,passed,,48,1,0,True,proxy_denial
+20260511T105155Z__jOOQ_jOOR__23e17cf3,jOOQ_jOOR,claude,generated,Best-effort,andvari,passed,,46,0,0,False,none
+20260511T105155Z__jOOQ_jOOR__23e17cf3,jOOQ_jOOR,claude,v2,Slightly degraded,andvari-v2,passed,,46,0,0,False,none
+20260511T105155Z__jOOQ_jOOR__23e17cf3,jOOQ_jOOR,claude,v3,Moderately degraded,andvari-v3,passed,,46,0,0,False,none
+20260511T105200Z__LianjiaTech_retrofit-spring-boot-starter__24cb9eda,LianjiaTech_retrofit-spring-boot-starter,claude,generated,Best-effort,andvari,passed,,82,0,0,False,none
+20260511T105200Z__LianjiaTech_retrofit-spring-boot-starter__24cb9eda,LianjiaTech_retrofit-spring-boot-starter,claude,v2,Slightly degraded,andvari-v2,passed,,50,0,0,False,none
+20260511T105200Z__LianjiaTech_retrofit-spring-boot-starter__24cb9eda,LianjiaTech_retrofit-spring-boot-starter,claude,v3,Moderately degraded,andvari-v3,passed,,130,0,0,False,none
+20260511T105205Z__linkedin_kafka-monitor__043db641,linkedin_kafka-monitor,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260511T105205Z__linkedin_kafka-monitor__043db641,linkedin_kafka-monitor,claude,v2,Slightly degraded,andvari-v2,passed,,86,0,0,False,none
+20260511T105205Z__linkedin_kafka-monitor__043db641,linkedin_kafka-monitor,claude,v3,Moderately degraded,andvari-v3,passed,,72,0,0,False,none
+20260511T105211Z__macrozheng_mall-tiny__a81ec474,macrozheng_mall-tiny,claude,generated,Best-effort,andvari,passed,,66,1,0,True,proxy_denial
+20260511T105211Z__macrozheng_mall-tiny__a81ec474,macrozheng_mall-tiny,claude,v2,Slightly degraded,andvari-v2,passed,,38,0,0,False,none
+20260511T105211Z__macrozheng_mall-tiny__a81ec474,macrozheng_mall-tiny,claude,v3,Moderately degraded,andvari-v3,passed,,48,0,0,False,none
+20260511T105217Z__mbechler_marshalsec__243c5aa8,mbechler_marshalsec,claude,generated,Best-effort,andvari,passed,,64,0,0,False,none
+20260511T105217Z__mbechler_marshalsec__243c5aa8,mbechler_marshalsec,claude,v2,Slightly degraded,andvari-v2,passed,,92,0,0,False,none
+20260511T105217Z__mbechler_marshalsec__243c5aa8,mbechler_marshalsec,claude,v3,Moderately degraded,andvari-v3,passed,,66,0,0,False,none
+20260513T080244Z__Meituan-Dianping_walle__f78edcf1,Meituan-Dianping_walle,claude,generated,Best-effort,andvari,passed,,56,0,0,False,none
+20260513T080244Z__Meituan-Dianping_walle__f78edcf1,Meituan-Dianping_walle,claude,v2,Slightly degraded,andvari-v2,passed,,54,0,0,False,none
+20260513T080244Z__Meituan-Dianping_walle__f78edcf1,Meituan-Dianping_walle,claude,v3,Moderately degraded,andvari-v3,passed,,52,0,0,False,none
+20260513T080251Z__Mojang_brigadier__b5419b18,Mojang_brigadier,claude,generated,Best-effort,andvari,error,runner-timeout,52,1,0,True,proxy_denial
+20260513T080251Z__Mojang_brigadier__b5419b18,Mojang_brigadier,claude,v2,Slightly degraded,andvari-v2,passed,,50,0,0,False,none
+20260513T080251Z__Mojang_brigadier__b5419b18,Mojang_brigadier,claude,v3,Moderately degraded,andvari-v3,passed,,56,0,0,False,none
+20260513T080257Z__monkeyWie_proxyee__c2c5bb4c,monkeyWie_proxyee,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260513T080257Z__monkeyWie_proxyee__c2c5bb4c,monkeyWie_proxyee,claude,v2,Slightly degraded,andvari-v2,passed,,60,0,0,False,none
+20260513T080257Z__monkeyWie_proxyee__c2c5bb4c,monkeyWie_proxyee,claude,v3,Moderately degraded,andvari-v3,passed,,56,0,0,False,none
+20260513T080303Z__mouzt_mzt-biz-log__8d3a0271,mouzt_mzt-biz-log,claude,generated,Best-effort,andvari,passed,,54,0,0,False,none
+20260513T080303Z__mouzt_mzt-biz-log__8d3a0271,mouzt_mzt-biz-log,claude,v2,Slightly degraded,andvari-v2,passed,,64,0,0,False,none
+20260513T080303Z__mouzt_mzt-biz-log__8d3a0271,mouzt_mzt-biz-log,claude,v3,Moderately degraded,andvari-v3,passed,,50,0,0,False,none
+20260513T080309Z__Netflix_concurrency-limits__e8df64d8,Netflix_concurrency-limits,claude,generated,Best-effort,andvari,error,runner-timeout,82,2,0,True,proxy_denial
+20260513T080309Z__Netflix_concurrency-limits__e8df64d8,Netflix_concurrency-limits,claude,v2,Slightly degraded,andvari-v2,passed,,68,0,0,False,none
+20260513T080309Z__Netflix_concurrency-limits__e8df64d8,Netflix_concurrency-limits,claude,v3,Moderately degraded,andvari-v3,passed,,58,0,0,False,none
+20260513T080314Z__pwittchen_ReactiveNetwork__ddfde340,pwittchen_ReactiveNetwork,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260513T080314Z__pwittchen_ReactiveNetwork__ddfde340,pwittchen_ReactiveNetwork,claude,v2,Slightly degraded,andvari-v2,passed,,46,0,0,False,none
+20260513T080314Z__pwittchen_ReactiveNetwork__ddfde340,pwittchen_ReactiveNetwork,claude,v3,Moderately degraded,andvari-v3,passed,,72,0,0,False,none
+20260513T080320Z__RikkaApps_Shizuku-API__a27f6e41,RikkaApps_Shizuku-API,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260513T080320Z__RikkaApps_Shizuku-API__a27f6e41,RikkaApps_Shizuku-API,claude,v2,Slightly degraded,andvari-v2,passed,,58,0,0,False,none
+20260513T080320Z__RikkaApps_Shizuku-API__a27f6e41,RikkaApps_Shizuku-API,claude,v3,Moderately degraded,andvari-v3,passed,,24,0,0,False,none
+20260513T080328Z__TheoKanning_openai-java__26909660,TheoKanning_openai-java,claude,generated,Best-effort,andvari,passed,,46,0,0,False,none
+20260513T080328Z__TheoKanning_openai-java__26909660,TheoKanning_openai-java,claude,v2,Slightly degraded,andvari-v2,passed,,48,0,0,False,none
+20260513T080328Z__TheoKanning_openai-java__26909660,TheoKanning_openai-java,claude,v3,Moderately degraded,andvari-v3,passed,,68,0,0,False,none
+20260513T080335Z__ulisesbocchio_jasypt-spring-boot__2243cb80,ulisesbocchio_jasypt-spring-boot,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260513T080335Z__ulisesbocchio_jasypt-spring-boot__2243cb80,ulisesbocchio_jasypt-spring-boot,claude,v2,Slightly degraded,andvari-v2,passed,,60,0,0,False,none
+20260513T080335Z__ulisesbocchio_jasypt-spring-boot__2243cb80,ulisesbocchio_jasypt-spring-boot,claude,v3,Moderately degraded,andvari-v3,passed,,90,0,0,False,none
+20260513T080342Z__whwlsfb_JDumpSpider__24fe3186,whwlsfb_JDumpSpider,claude,generated,Best-effort,andvari,passed,,70,0,0,False,none
+20260513T080342Z__whwlsfb_JDumpSpider__24fe3186,whwlsfb_JDumpSpider,claude,v2,Slightly degraded,andvari-v2,passed,,102,0,0,False,none
+20260513T080342Z__whwlsfb_JDumpSpider__24fe3186,whwlsfb_JDumpSpider,claude,v3,Moderately degraded,andvari-v3,passed,,66,0,0,False,none
+20260514T193759Z__xtuhcy_gecco__e1f32e1c,xtuhcy_gecco,claude,generated,Best-effort,andvari,passed,,74,0,0,False,none
+20260514T193759Z__xtuhcy_gecco__e1f32e1c,xtuhcy_gecco,claude,v2,Slightly degraded,andvari-v2,passed,,70,0,0,False,none
+20260514T193759Z__xtuhcy_gecco__e1f32e1c,xtuhcy_gecco,claude,v3,Moderately degraded,andvari-v3,passed,,56,0,0,False,none
+20260514T193807Z__YeautyYE_netty-websocket-spring-boot-starter__eb4d0a6b,YeautyYE_netty-websocket-spring-boot-starter,claude,generated,Best-effort,andvari,passed,,40,0,0,False,none
+20260514T193807Z__YeautyYE_netty-websocket-spring-boot-starter__eb4d0a6b,YeautyYE_netty-websocket-spring-boot-starter,claude,v2,Slightly degraded,andvari-v2,passed,,46,0,0,False,none
+20260514T193807Z__YeautyYE_netty-websocket-spring-boot-starter__eb4d0a6b,YeautyYE_netty-websocket-spring-boot-starter,claude,v3,Moderately degraded,andvari-v3,passed,,42,0,0,False,none
+20260515T132132Z__JMCuixy_swagger2word__0da57120,JMCuixy_swagger2word,claude,generated,Best-effort,andvari,passed,,68,0,0,False,none
+20260515T132132Z__JMCuixy_swagger2word__0da57120,JMCuixy_swagger2word,claude,v2,Slightly degraded,andvari-v2,passed,,50,0,0,False,none
+20260515T132132Z__JMCuixy_swagger2word__0da57120,JMCuixy_swagger2word,claude,v3,Moderately degraded,andvari-v3,passed,,48,0,0,False,none
+20260515T132141Z__eugene-khyst_postgresql-event-sourcing__90faafbb,eugene-khyst_postgresql-event-sourcing,claude,generated,Best-effort,andvari,passed,,40,0,0,False,none
+20260515T132141Z__eugene-khyst_postgresql-event-sourcing__90faafbb,eugene-khyst_postgresql-event-sourcing,claude,v2,Slightly degraded,andvari-v2,passed,,66,1,0,True,proxy_denial
+20260515T132141Z__eugene-khyst_postgresql-event-sourcing__90faafbb,eugene-khyst_postgresql-event-sourcing,claude,v3,Moderately degraded,andvari-v3,passed,,46,0,0,False,none
+20260515T132149Z__facebook_SoLoader__d3d721fb,facebook_SoLoader,claude,generated,Best-effort,andvari,passed,,60,0,0,False,none
+20260515T132149Z__facebook_SoLoader__d3d721fb,facebook_SoLoader,claude,v2,Slightly degraded,andvari-v2,passed,,38,0,0,False,none
+20260515T132149Z__facebook_SoLoader__d3d721fb,facebook_SoLoader,claude,v3,Moderately degraded,andvari-v3,passed,,44,0,0,False,none
+20260515T132155Z__feiniaojin_graceful-response__cf1cd118,feiniaojin_graceful-response,claude,generated,Best-effort,andvari,passed,,58,0,0,False,none
+20260515T132155Z__feiniaojin_graceful-response__cf1cd118,feiniaojin_graceful-response,claude,v2,Slightly degraded,andvari-v2,passed,,58,0,0,False,none
+20260515T132155Z__feiniaojin_graceful-response__cf1cd118,feiniaojin_graceful-response,claude,v3,Moderately degraded,andvari-v3,passed,,66,0,0,False,none
+20260515T132202Z__jenkinsci_jenkinsfile-runner__9be9c0fb,jenkinsci_jenkinsfile-runner,claude,generated,Best-effort,andvari,passed,,126,0,0,False,none
+20260515T132202Z__jenkinsci_jenkinsfile-runner__9be9c0fb,jenkinsci_jenkinsfile-runner,claude,v2,Slightly degraded,andvari-v2,passed,,170,0,0,False,none
+20260515T132202Z__jenkinsci_jenkinsfile-runner__9be9c0fb,jenkinsci_jenkinsfile-runner,claude,v3,Moderately degraded,andvari-v3,passed,,400,0,0,False,none
+20260515T132208Z__mitre_HTTP-Proxy-Servlet__c799c5e1,mitre_HTTP-Proxy-Servlet,claude,generated,Best-effort,andvari,passed,,60,0,0,False,none
+20260515T132208Z__mitre_HTTP-Proxy-Servlet__c799c5e1,mitre_HTTP-Proxy-Servlet,claude,v2,Slightly degraded,andvari-v2,passed,,48,0,0,False,none
+20260515T132208Z__mitre_HTTP-Proxy-Servlet__c799c5e1,mitre_HTTP-Proxy-Servlet,claude,v3,Moderately degraded,andvari-v3,passed,,72,0,0,False,none
+20260518T082419Z__stealthcopter_AndroidNetworkTools__a82af8a5,stealthcopter_AndroidNetworkTools,claude,generated,Best-effort,andvari,passed,,36,0,0,False,none
+20260518T082419Z__stealthcopter_AndroidNetworkTools__a82af8a5,stealthcopter_AndroidNetworkTools,claude,v2,Slightly degraded,andvari-v2,passed,,38,0,0,False,none
+20260518T082419Z__stealthcopter_AndroidNetworkTools__a82af8a5,stealthcopter_AndroidNetworkTools,claude,v3,Moderately degraded,andvari-v3,passed,,34,0,0,False,none
