@@ -1,0 +1,10 @@
+Agent,Variant,Invocations,Passed,Errors,Pass rate,Median runtime (min)
+claude,All,120,117,3,0.975,41.758
+claude,generated,40,38,2,0.95,44.0
+claude,v2,40,40,0,1.0,39.492
+claude,v3,40,39,1,0.975,39.792
+codex,All,120,120,0,1.0,16.683
+codex,generated,40,40,0,1.0,17.792
+codex,v2,40,40,0,1.0,16.2
+codex,v3,40,40,0,1.0,16.317
+Total,All,240,237,3,0.988,26.225
