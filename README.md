@@ -1,2 +1,3 @@
-# replication-package
-Collection of data and scripts for the thesis. 
+# Replication Package
+
+This repository is the replication package for the thesis.
