@@ -1,0 +1,17 @@
+"comparison","outcome","direction","agent","change.mean","change.median","change.q25","change.q75","change.n","wilcox_p"
+"generated_to_v2","pass_rate","drop","claude",-0.021,0.006,-0.058,0.159,18,0.6713
+"generated_to_v2","pass_rate","drop","codex",-0.009,0,-0.123,0.111,20,0.6713
+"generated_to_v2","fail_rate","increase","claude",-0.009,0,-0.014,0.079,18,0.781
+"generated_to_v2","fail_rate","increase","codex",0.031,0.007,-0.082,0.077,20,0.781
+"generated_to_v2","error_rate","increase","claude",-0.019,0,-0.032,0,18,0.3345
+"generated_to_v2","error_rate","increase","codex",0.005,0,0,0.038,20,0.3345
+"generated_to_v2","nonpass_rate","increase","claude",-0.021,0.006,-0.058,0.159,18,0.6713
+"generated_to_v2","nonpass_rate","increase","codex",-0.009,0,-0.123,0.111,20,0.6713
+"generated_to_v3","pass_rate","drop","claude",0.07,0.038,-0.01,0.11,15,0.2203
+"generated_to_v3","pass_rate","drop","codex",-0.011,0,-0.058,0.068,23,0.2203
+"generated_to_v3","fail_rate","increase","claude",0.03,0,-0.018,0.068,15,0.6749
+"generated_to_v3","fail_rate","increase","codex",0.039,0.008,-0.006,0.09,23,0.6749
+"generated_to_v3","error_rate","increase","claude",0.02,0,-0.009,0.046,15,0.6846
+"generated_to_v3","error_rate","increase","codex",-0.005,0,0,0,23,0.6846
+"generated_to_v3","nonpass_rate","increase","claude",0.07,0.038,-0.01,0.11,15,0.2203
+"generated_to_v3","nonpass_rate","increase","codex",-0.011,0,-0.058,0.068,23,0.2203

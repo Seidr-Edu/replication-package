@@ -1,0 +1,11 @@
+"agent","variant","reports","zero_signal","ws_viol_executed","analysis_cohort"
+"claude","generated",38,16,1,21
+"claude","v2",40,17,0,23
+"claude","v3",37,16,0,21
+"codex","generated",40,15,1,24
+"codex","v2",40,16,0,24
+"codex","v3",40,10,0,30
+"All","generated",78,31,2,45
+"All","v2",80,33,0,47
+"All","v3",77,26,0,51
+"Total","All",235,90,2,143

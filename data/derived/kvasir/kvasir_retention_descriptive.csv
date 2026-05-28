@@ -1,0 +1,7 @@
+"agent","variant","ret_ratio.mean","ret_ratio.median","ret_ratio.min","ret_ratio.max","ret_ratio.n"
+"claude","generated",0.99,1,0.8,1,21
+"claude","v2",0.973,1,0.706,1,23
+"claude","v3",0.98,1,0.7,1,21
+"codex","generated",1,1,1,1,24
+"codex","v2",1,1,1,1,24
+"codex","v3",0.967,1,0,1,30
