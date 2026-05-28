@@ -349,7 +349,7 @@ pdf(file.path(derived_dir, "kvasir_pass_rate_boxplot.pdf"),
 op <- par(mar = c(5, 4, 3, 6), xpd = TRUE)
 boxplot(pass_rate ~ cell, data = d,
         at      = c(1, 2, 4, 5, 7, 8),
-        col     = c("steelblue", "tomato"),
+        col     = c("steelblue", "firebrick"),
         names   = rep(c("claude", "codex"), 3),
         ylim    = c(0, 1),
         ylab    = "branch pass_rate (passed / executed)",
@@ -363,7 +363,7 @@ axis(1, at = c(1.5, 4.5, 7.5),
      tick = FALSE, line = 1.8)
 legend("topright", inset = c(-0.20, 0),
        legend = c("claude", "codex"),
-       fill   = c("steelblue", "tomato"),
+       fill   = c("steelblue", "firebrick"),
        bty = "n", cex = 0.85)
 par(op); dev.off()
 cat("\nSaved: kvasir_branch_rates.csv, kvasir_pass_rate_boxplot.pdf\n")
